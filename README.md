@@ -12,10 +12,11 @@
 - Run `python main.py` to run the app!
 
 ## .env file contents
-- SECRET_KEY=verysecretkey
-- DATABASE_URL=sqlite:///shorty.db
-- APP_SETTINGS=config.DevelopmentConfig
-- FLASK_APP=core
+```SECRET_KEY=verysecretkey
+DATABASE_URL=sqlite:///shorty.db
+APP_SETTINGS=config.DevelopmentConfig
+FLASK_APP=core
+```
 
 ## Wins and Challenges
 ### Wins
